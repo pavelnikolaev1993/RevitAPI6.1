@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\RevitAPITrainig\RevitAPI6.dll"</Assembly>
+		<AddInId>DCBC6D2E-2206-4DEA-89C7-CBAF5C2C110D</AddInId>
+		<FullClassName>RevitAPI6.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Шестое приложение</Text>
+	</AddIn>
+</RevitAddIns>
